@@ -1,0 +1,76 @@
+{
+  "generated": "2026-10-14",
+  "note": "原始大文件保留在本机，不重复放入 GitHub 候选压缩包。",
+  "files": [
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/boot.img",
+      "size": 201326592,
+      "sha256": "9dd14961ae15aa10d162711d57972c5c62e7af23f2dabc22bac57b24bc185e4b"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/dtbo.img",
+      "size": 25165824,
+      "sha256": "21376daf2630560a1b791b639703b4c9614b19ead265a3ab2e6866858dd5e2c0"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/mi_ext.img",
+      "size": 159744,
+      "sha256": "6d447859d6655d5b0e97197b42738f97e2c004929f465d04a4a25ac61e48f39f"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/odm.img",
+      "size": 492642304,
+      "sha256": "5bbb7e18b11c95decd0b6e717bd77b40301524c7aea151017469ef524493e9b6"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/product.img",
+      "size": 4646461440,
+      "sha256": "cf1925c0784652f80b659bd3714a5da2641c1ecd18ed91142d1c89e60805fa4a"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/system.img",
+      "size": 760172544,
+      "sha256": "c4e6254ccf80e813259383dc4181683c3a89a014d9df18cb3f7e8635173b9259"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/system_ext.img",
+      "size": 799367168,
+      "sha256": "d2e70681c7764a994e46b01f94f055cde1d372b0811847810470eff0db7269bc"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/vbmeta.img",
+      "size": 8192,
+      "sha256": "b3ad4462082df709be53bed487d60fb55588201d7b0e38237d6468aa71764fd7"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/vbmeta_system.img",
+      "size": 4096,
+      "sha256": "9838afb948f0c48c2a5a855c655404c3c9bff4a095151430714288a50572b94f"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/vendor.img",
+      "size": 1401200640,
+      "sha256": "7106c52a57f2f0b60f305fe4cd69a39e96977832528d1cc45746cc90608fe90b"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/vendor_boot.img",
+      "size": 100663296,
+      "sha256": "752b75972f50a71b58ea0da2f227525f4eb16982fba1ea60449c5f63a8bc1b40"
+    },
+    {
+      "path": "outputs/extracted-OS3.0.7.0.VMYCNXM/vendor_dlkm.img",
+      "size": 29597696,
+      "sha256": "2a913880154e3ce9030ad165a53d31d47f35b62dd8e82c88330546a7f6073cb7"
+    },
+    {
+      "path": "work/partial-liuqin-images.tgz",
+      "size": 7074742272,
+      "sha256": "475ae2c45b3c182c14468cea7185e358d000b6c89eb0fa445345931a546ca1b6"
+    },
+    {
+      "path": "work/partial-liuqin-images.tgz.aria2",
+      "size": 1257,
+      "sha256": "c628d911becda9805f871f795f1639c9e2389c42b47389139a50666ed97a3c7f"
+    }
+  ]
+}

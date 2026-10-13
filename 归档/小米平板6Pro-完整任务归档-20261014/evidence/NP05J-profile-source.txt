@@ -1,0 +1,3 @@
+Model/manufacturer/product/device/fingerprint extracted from https://github.com/twrpdtgen/android_device_nubia_PQ84P01/blob/sun-user-15-AQ3A.240812.002-REDMAGICOS10.5.9_NP05J_EU-release-keys/omni_PQ84P01.mk
+Official model name verification https://shop.nubia.com/active/nonguaranteedprice.html
+No invented fingerprint; real European NP05J build identity, Android15. No version/CPU/GPU/ID modifications.

@@ -1,0 +1,9 @@
+{
+  "pid": "10384",
+  "thread_masks": "/proc/10384/task/10384:MainThread-UE4\nCpus_allowed_list:\t4-6\n/proc/10384/task/15291:RenderThread\nCpus_allowed_list:\t4-6\n/proc/10384/task/15780:Thread-22\nCpus_allowed_list:\t7\n/proc/10384/task/15824:MainThread-UE4\nCpus_allowed_list:\t4-6\n/proc/10384/task/16159:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16162:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16235:RHIThread\nCpus_allowed_list:\t4-6\n/proc/10384/task/16334:RenderThread 1\nCpus_allowed_list:\t4-6\n/proc/10384/task/16796:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16819:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16829:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16836:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16843:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16847:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16850:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16851:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16852:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/16853:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/17205:Thread-22\nCpus_allowed_list:\t0-6\n/proc/10384/task/17207:Thread-22\nCpus_allowed_list:\t0-6\n",
+  "cpu_gpu_limits": "/sys/devices/system/cpu/cpufreq/policy0\n1056000\n2016000\n/sys/devices/system/cpu/cpufreq/policy4\n1440000\n2745600\n/sys/devices/system/cpu/cpufreq/policy7\n1651200\n2918400\n220000000\n900000000\n",
+  "scene_accessibility_bound": true,
+  "crashed_services": [
+    "     Crashed services:{}"
+  ]
+}

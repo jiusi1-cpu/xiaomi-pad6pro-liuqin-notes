@@ -1,0 +1,22 @@
+[
+  {
+    "tid": 10350,
+    "name": "MainThread-UE4",
+    "allowed_cpu_list": "4-6"
+  },
+  {
+    "tid": 14417,
+    "name": "Thread-22",
+    "allowed_cpu_list": "7"
+  },
+  {
+    "tid": 14894,
+    "name": "RHIThread",
+    "allowed_cpu_list": "4-6"
+  },
+  {
+    "tid": 14995,
+    "name": "RenderThread 1",
+    "allowed_cpu_list": "4-6"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "imei_enabled": false,
+  "imei": "",
+  "imei2": "",
+  "sysserver": false,
+  "flagsecure": false,
+  "storage": false,
+  "micshare": false,
+  "corepatch": {
+    "sig": false,
+    "downgrade": false,
+    "verifier": false,
+    "arsc": false
+  }
+}

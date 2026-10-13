@@ -1,0 +1,11 @@
+{
+  "stock_boot_sha256": "9dd14961ae15aa10d162711d57972c5c62e7af23f2dabc22bac57b24bc185e4b",
+  "patched_boot_sha256": "152d1606ef856c2fe288830884dda58ecbeafa024906a3063dead626dc5d9bfe",
+  "kernel_sha256_unchanged": "42c827b562da776539da12ef90e7755495b1ebd33fe16d6257e299a0530fb801",
+  "stock_init_preserved": true,
+  "all_other_stock_ramdisk_entries_preserved": true,
+  "official_v3_3_1_lkm_and_init_verified": true,
+  "boot_metadata_preserved": true,
+  "device_boot_tested": false,
+  "root_verified_on_device": false
+}

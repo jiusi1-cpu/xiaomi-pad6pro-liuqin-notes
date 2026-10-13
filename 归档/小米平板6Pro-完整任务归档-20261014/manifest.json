@@ -1,0 +1,380 @@
+{
+  "generated": "2026-10-14",
+  "files": [
+    {
+      "path": "01-刷机与KernelSU.md",
+      "size": 1218,
+      "sha256": "1b544b4c2ddb2b5972545bc7b2d46e68a92865826a1aca0eefa75fcba859de9a"
+    },
+    {
+      "path": "02-MT与Scene.md",
+      "size": 1134,
+      "sha256": "255c54b13203d8cbf98fa4efaea0fde3ecc994814aaabc3766a4f90120f532d5"
+    },
+    {
+      "path": "03-桌面动画优化.md",
+      "size": 1525,
+      "sha256": "bb8f5bf850d98f5276882bf2963561be91b5c7a73f8940e208d13cc2c6c189f2"
+    },
+    {
+      "path": "04-和平精英120Hz与性能.md",
+      "size": 2032,
+      "sha256": "8a5bea577d1537f352ba14ee8414f2dded23e40c5f46a868c7852e26fc721588"
+    },
+    {
+      "path": "05-红魔平板机型配置.md",
+      "size": 955,
+      "sha256": "0c55ebff6996ecca2b546bc04875468dd755ef444f293f6d8af9070ecda5d432"
+    },
+    {
+      "path": "06-皮肤资源导入.md",
+      "size": 1384,
+      "sha256": "ab2840013ccd2e11c7c83b74c8ae63d4013ac1c734bd0e65d30ab2a3e574b472"
+    },
+    {
+      "path": "07-恢复与回滚.md",
+      "size": 858,
+      "sha256": "029816bd220b1724bff134d54a2337b219498a51ce08c8e9caf26dff2d0b157b"
+    },
+    {
+      "path": "08-GitHub上传说明.md",
+      "size": 1119,
+      "sha256": "05220d1508741d76d3cf6108ad6b8ae1407135988230c48325f8f01baa85535b"
+    },
+    {
+      "path": "evidence/background-uid-audit.json",
+      "size": 2803,
+      "sha256": "d928b659c68bdd37d4fce8dbb9da0f8ab94559273e9ad26c0e390ba136a4b810"
+    },
+    {
+      "path": "evidence/boot-verification.json",
+      "size": 529,
+      "sha256": "d8ef282fcd100cf409860207ea8d135250294db965337ba2d83810f2d360ae9f"
+    },
+    {
+      "path": "evidence/COPG-release.json",
+      "size": 4914,
+      "sha256": "254f2c911989eb9ebd2a1c5627d1b11f3c0415083d783847a19aead40e725f91"
+    },
+    {
+      "path": "evidence/device-extraction.json",
+      "size": 3833,
+      "sha256": "4d026ded00d3974254058a41252e55172deb4220a565147969c4a6f49f83d456"
+    },
+    {
+      "path": "evidence/final-game-allocation.json",
+      "size": 1558,
+      "sha256": "25a85344fe6525574d14dc7f06d9ee7c1eaf23abd107bab97767cc76119e5fe7"
+    },
+    {
+      "path": "evidence/final-reboot-aa-off-training90sec.json",
+      "size": 212149,
+      "sha256": "02a61f7ddc03034bb2b156862bfb2e83d677f84e3aca754e7430314d56c1b917"
+    },
+    {
+      "path": "evidence/final-reboot-verification.json",
+      "size": 17523,
+      "sha256": "36640f0553efc9948d5b5e3c44bcac30d11bfcbe21afdddac813b9abb0e3b4a2"
+    },
+    {
+      "path": "evidence/game-live-thread-affinity.json",
+      "size": 338,
+      "sha256": "dd422fd8d1f9e121568cccb5650655e1638827d723df837c4b3569f4f22bf4ec"
+    },
+    {
+      "path": "evidence/NP05J-profile-source.txt",
+      "size": 406,
+      "sha256": "aafb15789c46f88042494416f7091818d9e6be1f5335e829e996dd219f53f065"
+    },
+    {
+      "path": "evidence/restricted-COPG.json",
+      "size": 430,
+      "sha256": "74cc4c1d5932a60e63aee0c482c11c6713df1ed25dd24b3fd769e5af2b75041d"
+    },
+    {
+      "path": "evidence/restricted-global.json",
+      "size": 261,
+      "sha256": "8ffe4a278d3d0db01cedee72a07d67f318127f0fb2d339e2fc31879e493ef4ff"
+    },
+    {
+      "path": "evidence/restricted-list.json",
+      "size": 50,
+      "sha256": "68f1a323d1c5d3400c057d3c3fe290d5e73c1d0ec009e2de88f18f4acc471a30"
+    },
+    {
+      "path": "evidence/Scene-accessibility-final.txt",
+      "size": 11960,
+      "sha256": "cdb65ab5af069c5499304d90ca1abf856287c04b8fe7c7c2c1b5502acf8141f0"
+    },
+    {
+      "path": "evidence/ZygiskNext-release.json",
+      "size": 4848,
+      "sha256": "b94cd41fe16c9361519da57b9fff3192f847025ca7a43e56cd1328c5563dcb09"
+    },
+    {
+      "path": "evidence/原始-和平精英120帧优化结果.md",
+      "size": 3557,
+      "sha256": "88c05bdc4d66ee39d4ed124e23e77065536ff7e7b62ad87f6cf8b9ee3f423858"
+    },
+    {
+      "path": "evidence/原始-桌面优化结果.md",
+      "size": 3624,
+      "sha256": "62359675b16240a6934bc7e4534e18a22c2bf95b518816da8e752f5a7efdb4b4"
+    },
+    {
+      "path": "evidence/证据索引.md",
+      "size": 846,
+      "sha256": "6df7ea0d7e00a0e3dfdad249b3bc491a2eeeee57f66b2e652aaceb775805e572"
+    },
+    {
+      "path": "manifest.json",
+      "size": 12542,
+      "sha256": "0c85cbc8b9f5e3636fcd826e2b4205ecd83d5dac7de70172e9c8ac169d5bc4a7"
+    },
+    {
+      "path": "modules/liuqin120/apply.sh",
+      "size": 2045,
+      "sha256": "620cbb9b431803adc78bfc8049dfac569289ab1993695f4b1bc84c9adab819fa"
+    },
+    {
+      "path": "modules/liuqin120/background-packages.txt",
+      "size": 454,
+      "sha256": "3e918812f83e463497c5afebb2b6aa07bfd47e3739f24042de3582abd14fe997"
+    },
+    {
+      "path": "modules/liuqin120/boot-completed.sh",
+      "size": 270,
+      "sha256": "46eef3587abd5eabd99b6af03ca88096a6cd945ef040e30aac4638989c1deae8"
+    },
+    {
+      "path": "modules/liuqin120/customize.sh",
+      "size": 310,
+      "sha256": "668e561728881b7170ba576a8a000e329c25fbbbfc1ff287d140837759885774"
+    },
+    {
+      "path": "modules/liuqin120/module.prop",
+      "size": 240,
+      "sha256": "26ee0af6df5dc6321c3ec3b4e2cd166b77f9f4622db815f1663e4bccf7667987"
+    },
+    {
+      "path": "modules/liuqin120/restore.sh",
+      "size": 7961,
+      "sha256": "4f4e5b0f3e2fc6bd4312318b549cf0ab561de42e838338d22387465063b7944d"
+    },
+    {
+      "path": "modules/liuqin120/skip_mount",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "modules/liuqin120/uninstall.sh",
+      "size": 68,
+      "sha256": "2e519a26e93dfe0b2087cd0946d1ddd83b881c896c39d762b816b18911e3b91f"
+    },
+    {
+      "path": "modules/小米平板6Pro-全局120Hz与后台限制.zip",
+      "size": 3468,
+      "sha256": "46c90a2cefc378ea93c67c8f0364d904aec9f6af47b2606d873cbbdde6b7cc68"
+    },
+    {
+      "path": "NOTICE-上传边界.md",
+      "size": 942,
+      "sha256": "4bd243936b58ff5ec887375174e1786472f85b01fc5b4e0d320d1ba0f426c4c7"
+    },
+    {
+      "path": "raw-materials-manifest.json",
+      "size": 2775,
+      "sha256": "de0bf531809f967adadc4de349f8276ebd4b5d39fd61f0f8ca8a2e75b4eab99b"
+    },
+    {
+      "path": "README.md",
+      "size": 3183,
+      "sha256": "3e7ba5e360c5566a40f633303f7492aa5679cf9b899765af4d0fae596bfc2efc"
+    },
+    {
+      "path": "research/global120-and-allocation-findings.md",
+      "size": 7214,
+      "sha256": "a8ce42e70f20c853084a56ec3786654af33a6e618ba41769c2cf7720f4c9cf89"
+    },
+    {
+      "path": "research/launcher-actual-apk-findings.md",
+      "size": 3767,
+      "sha256": "664fde8e96294a693caa968fa43c04d46393b574461287af15fefbc4cf912beb"
+    },
+    {
+      "path": "research/launcher-launch-delay-hook-evaluation.md",
+      "size": 3611,
+      "sha256": "5289c06e372d2b60d9d2e4f3a68444695f6e4155fa8aaf8e9dfa6dbf729f16e9"
+    },
+    {
+      "path": "research/oppo-vivo-coldstart-research.md",
+      "size": 3974,
+      "sha256": "84eb973c1f63cc80b0ec5de0f48e887f7e5af336c9c62e9542d7f32a174da741"
+    },
+    {
+      "path": "research/refresh-rate-exact-findings.md",
+      "size": 4772,
+      "sha256": "488441f98866df062ffca715f0d56ba853fcade193c16a58f1c11984e971417b"
+    },
+    {
+      "path": "research/scene-apps.md",
+      "size": 3808,
+      "sha256": "51003eb87382982ab476d7b607c79283b39e21daa7c0611b3a86104190dc9b15"
+    },
+    {
+      "path": "research/scene-hp-lp-ep.md",
+      "size": 2575,
+      "sha256": "6c310ab13dcec68c870d0fd599fa99d289e2c0403023dec3355b067cc00e4a46"
+    },
+    {
+      "path": "research/scene-manifest.md",
+      "size": 3431,
+      "sha256": "50b6520362833883fd2ba4c7d12fe19fbfb8c667d1168c6c7f617ac131a029e7"
+    },
+    {
+      "path": "rollback/恢复全局刷新率与后台限制.ps1",
+      "size": 854,
+      "sha256": "133ad352dd2fd3ff3de251704b22de2eb4f295947157d24941befb41a2401a8a"
+    },
+    {
+      "path": "rollback/恢复和平精英原机型.ps1",
+      "size": 843,
+      "sha256": "9fef1790eb08c35347cca8f3dfb948ea719317f4557d591f331078a981861521"
+    },
+    {
+      "path": "rollback/恢复桌面动画.ps1",
+      "size": 724,
+      "sha256": "8c493d51c2762d35d9f3c36b11aeb71f3c5eb30f99c6e2260bfc92c53f0dcb65"
+    },
+    {
+      "path": "screenshots/MT-root-verified.png",
+      "size": 201483,
+      "sha256": "63c78b3860bc81b4bf6aa6a51a76763d605dd2ba87b4850d17aa2627526c6b40"
+    },
+    {
+      "path": "screenshots/Scene-EP-config-selector-verified.png",
+      "size": 268332,
+      "sha256": "74104a2646c3ec7dc764b5121ccef8055193c860597751f5a31d583ead080adf"
+    },
+    {
+      "path": "screenshots/Scene-EP-features-verified.png",
+      "size": 177614,
+      "sha256": "3d449b3142c2d7f33302ab26e63b876c0159db6d63e2c519f14d371d6f489821"
+    },
+    {
+      "path": "screenshots/Scene-EP-ready.png",
+      "size": 166563,
+      "sha256": "04b111aec518542fb3ca9df8cb589f02335346a3bc640ed7d8046dfb74a4d10e"
+    },
+    {
+      "path": "screenshots/Scene-root-authorized.png",
+      "size": 212043,
+      "sha256": "52c4711cc26bc2439eb40409a7941f4c1ea67138b24404a28f9896f04a43de2e"
+    },
+    {
+      "path": "scripts/audit-background-uids.py",
+      "size": 975,
+      "sha256": "0789c39dac316e9080b74f5572873d0ae9c777ba57562a08784490b7fe0b6386"
+    },
+    {
+      "path": "scripts/capture_launcher_trace.py",
+      "size": 2553,
+      "sha256": "f8fda7a8da62fdab02afc9e481bc49df1673de2d3190364a93070a43fab40841"
+    },
+    {
+      "path": "scripts/compile_selected_apps.py",
+      "size": 894,
+      "sha256": "fe615c8828ec948927a2609496ec504a9e164b5f565dde9cb00f4f8cabf05d51"
+    },
+    {
+      "path": "scripts/finalize-global120-module.py",
+      "size": 3030,
+      "sha256": "a22732ccc84d3f5c90afca964df0db0be403f1ff79f19e0f45d219c9f81951e4"
+    },
+    {
+      "path": "scripts/import-new-skin-zip.py",
+      "size": 3446,
+      "sha256": "0e60e49ca35a424949bbd312f5430837f5b46636b8dfda9e8034062ba0cb0a51"
+    },
+    {
+      "path": "scripts/inspect-new-skin-zip.py",
+      "size": 1265,
+      "sha256": "d1b9d6ed2a5e38d913acee2a8be919482b76987eed151bdf9a53833d4b2ffef1"
+    },
+    {
+      "path": "scripts/inspect-tablet-spoof.py",
+      "size": 1090,
+      "sha256": "0281142a4d2c7e24aaf65cdf393218d623c107a53db27d6e2b5641df78f41a46"
+    },
+    {
+      "path": "scripts/install-zygisk.py",
+      "size": 969,
+      "sha256": "8c444d72094667491ef9262c4d4149f48f0fc0bcd52aff948523beca3d59b03d"
+    },
+    {
+      "path": "scripts/measure-game-present.py",
+      "size": 2003,
+      "sha256": "44ce00ae1e83aebd06b6ca6b27c5c772176ce52c71e95ca9d526b8aec6780133"
+    },
+    {
+      "path": "scripts/measure-sustained120.py",
+      "size": 3840,
+      "sha256": "3706f0f116d2aa7b09f7b0e02d2cc9226b125a697ca06c023d721bb1089f0056"
+    },
+    {
+      "path": "scripts/prepare-spoof.py",
+      "size": 2377,
+      "sha256": "9ac844c7a075a9fd2fa84879e97008959cadd30e50625bc36c5ce45f60046d69"
+    },
+    {
+      "path": "scripts/read-current-game-allocation.py",
+      "size": 1075,
+      "sha256": "9df1cdc25722f4c0d8c9e6ceee144bfdf82a755f89bce27ccf495075d07e778d"
+    },
+    {
+      "path": "scripts/rebind_scene_accessibility.py",
+      "size": 1094,
+      "sha256": "b5a87f09d0df3ad35f65b02abb0a3bfa561f16d9bed9c9f03b6683c031d57a0c"
+    },
+    {
+      "path": "scripts/save-global120-result.py",
+      "size": 6730,
+      "sha256": "ddaf44812f13a29bf3404e1b4f9a514f9fc10e0a791f1845f5cb7bb786b2372f"
+    },
+    {
+      "path": "scripts/test_launcher_home.py",
+      "size": 2904,
+      "sha256": "512ddea78f0b607f71ecdc94640ada7334a515a05e9d65e47776a7f3b3bd4ea7"
+    },
+    {
+      "path": "scripts/verify-new-skin-import.py",
+      "size": 1185,
+      "sha256": "3f3643895dd4f95c6c2eb71853207285079fc993eab8562169a9da0e7d5eb20b"
+    },
+    {
+      "path": "scripts/verify-persistent120-final.py",
+      "size": 2310,
+      "sha256": "88f6486d8ba277236a8f32243715e2094c0022b4dd46596fbf73e13882a937b2"
+    },
+    {
+      "path": "scripts/verify_apps.py",
+      "size": 823,
+      "sha256": "12cd192c55a80a576c9505d504eeb8958591c629084ebfb5627f06702c382873"
+    },
+    {
+      "path": "scripts/verify_boot.py",
+      "size": 2751,
+      "sha256": "e53fef64986424592b3fb7209ba62ab05aea881ea6a29f7e8b6c89d8394cd62a"
+    },
+    {
+      "path": "scripts/verify_final_gestures.py",
+      "size": 1647,
+      "sha256": "5aed39bf3298d49fff3acd91ef360578dabb17071a48ead74ed8e75494d98aa4"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "size": 7318,
+      "sha256": "e905b1dfd43961103dede858fcb5a3907835b01b7095110fa8930c652d3eb804"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+ACCESSIBILITY MANAGER (dumpsys accessibility)
+
+currentUserId=0
+hasMagnificationConnection=false
+Magnifier on display#0
+    MagnificationConfig[mode: 1, activated: false, scale: 1.0, centerX: 900.0, centerY: 1420.0] 
+    Magnification region=SkRegion((0,0,1800,2840))
+    IdOfLastServiceToMagnify=-1
+    SupportWindowMagnification=true
+    WindowMagnificationConnectionState=DISCONNECTED
+User state[
+     attributes:{id=0, touchExplorationEnabled=false, serviceHandlesDoubleTap=false, requestMultiFingerGestures=false, requestTwoFingerPassthrough=false, sendMotionEventsEnabledfalse, displayMagnificationEnabled=false, autoclickEnabled=false, nonInteractiveUiTimeout=0, interactiveUiTimeout=0, installedServiceCount=23, magnificationModes={0=1}, magnificationCapabilities=3, audioDescriptionByDefaultEnabled=false, magnificationFollowTypingEnabled=true, alwaysOnMagnificationEnabled=true}
+     shortcut key:{}
+     button:{}
+     button target:{null}
+     qs shortcut targets:{}
+     a11y tiles in QS panel:{}
+     Bound services:{Service[label=SCENE-辅助服务, feedbackType[FEEDBACK_GENERIC], capabilities=1, eventTypes=[TYPE_WINDOW_STATE_CHANGED, TYPE_WINDOWS_CHANGED], notificationTimeout=0, requestA11yBtn=false]}
+     Enabled services:{{com.omarea.vtools/com.omarea.vtools.AccessibilitySceneMode}}
+     Binding services:{}
+     Crashed services:{}
+     Client list info:{
+          Client list callbacks: 3
+          Client list killed: false
+          Client list broadcasts count: -1
+          Registered clients:{
+[com.sohu.inputmethod.sogou.xiaomi][com.omarea.vtools][me.weishu.kernelsu]}]
+Global Info [ Top focused display Id = 0
+     Active Window Id = 115
+     Top Focused Window Id = 115
+     Accessibility Focused Window Id = -1 ]
+
+Display[0] : 
+A11yWindow[AccessibilityWindowInfo[title=null, displayId=0, id=15, taskId=-1, type=TYPE_SYSTEM, layer=3, region=SkRegion((0,0,1800,60)), bounds=Rect(0, 0 - 1800, 60), focused=false, active=false, globalScale=1.0, mTransformMatrix=[1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0], pictureInPicture=false, transitionTime=603105, hasParent=false, isAnchored=false, hasChildren=false]]
+WindowInfo[WindowInfo[title=null, displayId=0, taskId=-1, type=2000, layer=0, token=android.os.BinderProxy@b66a796, region=SkRegion((0,0,1800,60)), bounds=Rect(0, 0 - 1800, 60), parent=null, focused=false, children=null, accessibility anchor=9223372034707292159, pictureInPicture=false, globalScale=1.0, watchOutsideTouch=false, mTransformMatrix=Matrix{[1.0, 0.0, 0.0][0.0, 1.0, 0.0][0.0, 0.0, 1.0]}, mMagnificationSpec=<scale:1.0,offsetX:0.0,offsetY:0.0>, locales=[zh_CN]]]
+,
+A11yWindow[AccessibilityWindowInfo[title=null, displayId=0, id=110, taskId=-1, type=TYPE_SYSTEM, layer=2, region=SkRegion((1670,223,1775,291)), bounds=Rect(1670, 223 - 1775, 291), focused=false, active=false, globalScale=1.0, mTransformMatrix=[1.0, 0.0, 1670.0, 0.0, 1.0, 223.0, 0.0, 0.0, 1.0], pictureInPicture=false, transitionTime=603169, hasParent=false, isAnchored=false, hasChildren=false]]
+WindowInfo[WindowInfo[title=null, displayId=0, taskId=-1, type=2038, layer=1, token=android.os.BinderProxy@b72b50c, region=SkRegion((1670,223,1775,291)), bounds=Rect(1670, 223 - 1775, 291), parent=null, focused=false, children=null, accessibility anchor=9223372034707292159, pictureInPicture=false, globalScale=1.0, watchOutsideTouch=false, mTransformMatrix=Matrix{[1.0, 0.0, 1670.0][0.0, 1.0, 223.0][0.0, 0.0, 1.0]}, mMagnificationSpec=<scale:1.0,offsetX:0.0,offsetY:0.0>, locales=[zh_CN]]]
+,
+A11yWindow[AccessibilityWindowInfo[title=null, displayId=0, id=114, taskId=-1, type=TYPE_APPLICATION, layer=1, region=SkRegion((823,0,978,75)), bounds=Rect(823, 0 - 978, 75), focused=false, active=false, globalScale=1.0, mTransformMatrix=[1.0, 0.0, 823.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0], pictureInPicture=false, transitionTime=784761, hasParent=false, isAnchored=false, hasChildren=false]]
+WindowInfo[WindowInfo[title=null, displayId=0, taskId=-1, type=2, layer=2, token=android.os.BinderProxy@be0b0db, region=SkRegion((823,0,978,75)), bounds=Rect(823, 0 - 978, 75), parent=null, focused=false, children=null, accessibility anchor=9223372034707292159, pictureInPicture=false, globalScale=1.0, watchOutsideTouch=false, mTransformMatrix=Matrix{[1.0, 0.0, 823.0][0.0, 1.0, 0.0][0.0, 0.0, 1.0]}, mMagnificationSpec=<scale:1.0,offsetX:0.0,offsetY:0.0>, locales=[zh_CN]]]
+,
+A11yWindow[AccessibilityWindowInfo[title=Scene, displayId=0, id=115, taskId=24, type=TYPE_APPLICATION, layer=0, region=SkRegion((0,0,1800,2880)), bounds=Rect(0, 0 - 1800, 2880), focused=true, active=true, globalScale=1.0, mTransformMatrix=[1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0], pictureInPicture=false, transitionTime=814189, hasParent=false, isAnchored=false, hasChildren=false]]
+WindowInfo[WindowInfo[title=Scene, displayId=0, taskId=24, type=1, layer=3, token=android.os.BinderProxy@7935f3e, region=SkRegion((0,0,1800,2880)), bounds=Rect(0, 0 - 1800, 2880), parent=null, focused=true, children=null, accessibility anchor=9223372034707292159, pictureInPicture=false, globalScale=1.0, watchOutsideTouch=false, mTransformMatrix=Matrix{[1.0, 0.0, 0.0][0.0, 1.0, 0.0][0.0, 0.0, 1.0]}, mMagnificationSpec=<scale:1.0,offsetX:0.0,offsetY:0.0>, locales=[zh_CN]]]
+
+
+Window attributes:[{0=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 1=AccessibilityWindowAttributes{mAccessibilityWindowTitle=导航栏mLocales=[zh_CN]}, 2=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 3=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 4=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 5=AccessibilityWindowAttributes{mAccessibilityWindowTitle=系统桌面mLocales=[zh_CN]}, 7=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 8=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 9=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 10=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 11=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 13=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 14=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 15=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 34=AccessibilityWindowAttributes{mAccessibilityWindowTitle=KernelSUmLocales=[zh_CN]}, 100=AccessibilityWindowAttributes{mAccessibilityWindowTitle=应用商店mLocales=[zh_CN]}, 101=AccessibilityWindowAttributes{mAccessibilityWindowTitle=应用商店mLocales=[zh_CN]}, 110=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 112=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 114=AccessibilityWindowAttributes{mAccessibilityWindowTitle=nullmLocales=[zh_CN]}, 115=AccessibilityWindowAttributes{mAccessibilityWindowTitle=ScenemLocales=[zh_CN]}}]
+Global client list info:{
+    Client list callbacks: 12
+    Client list killed: false
+    Client list broadcasts count: -1
+    Registered clients:{
+[com.xiaomi.xmsf][com.miui.aod, com.miui.cit, com.miui.uireporter, com.xiaomi.barrage, com.android.server.telecom, com.xiaomi.devauth, com.android.location.fused, com.xiaomi.mtb, com.android.providers.settings, com.novatek.novavis, com.qualcomm.qti.xrvd.service, com.miui.powerkeeper, com.android.inputdevices, com.miui.thirdappassistant, com.xiaomi.aiasst.vision, vendor.qti.qesdk.sysservice, miui.systemui.plugin, com.miui.securitycore, com.miui.securitycenter, com.miui.misightservice, com.xiaomi.touchservice, com.miui.audiomonitor, com.xiaomi.mirror, com.wapi.wapicertmanage, com.android.settings, android, com.xiaomi.joyose, com.miui.notification, com.xiaomi.misettings, com.android.localtransport, com.miui.face, com.android.keychain, com.android.dynsystem, com.miui.daemon, com.android.systemui, com.xiaomi.otrpbroker, com.miui.qr, com.android.DeviceAsWebcam, com.android.provision, com.qualcomm.qti.services.systemhelper, com.miui.contentcatcher, com.xiaomi.location.fused, com.xiaomi.trustservice, com.bsp.catchlog, com.xiaomi.digitalkey, com.miui.wmsvc, com.miui.bugreport, com.xiaomi.mi_connect_service][com.miui.personalassistant][com.miui.packageinstaller][com.miui.aod, com.miui.cit, com.miui.uireporter, com.xiaomi.barrage, com.android.server.telecom, com.xiaomi.devauth, com.android.location.fused, com.xiaomi.mtb, com.android.providers.settings, com.novatek.novavis, com.qualcomm.qti.xrvd.service, com.miui.powerkeeper, com.android.inputdevices, com.miui.thirdappassistant, com.xiaomi.aiasst.vision, vendor.qti.qesdk.sysservice, miui.systemui.plugin, com.miui.securitycore, com.miui.securitycenter, com.miui.misightservice, com.xiaomi.touchservice, com.miui.audiomonitor, com.xiaomi.mirror, com.wapi.wapicertmanage, com.android.settings, android, com.xiaomi.joyose, com.miui.notification, com.xiaomi.misettings, com.android.localtransport, com.miui.face, com.android.keychain, com.android.dynsystem, com.miui.daemon, com.android.systemui, com.xiaomi.otrpbroker, com.miui.qr, com.android.DeviceAsWebcam, com.android.provision, com.qualcomm.qti.services.systemhelper, com.miui.contentcatcher, com.xiaomi.location.fused, com.xiaomi.trustservice, com.bsp.catchlog, com.xiaomi.digitalkey, com.miui.wmsvc, com.miui.bugreport, com.xiaomi.mi_connect_service][com.miui.uireporter, com.xiaomi.joyose, com.xiaomi.barrage, com.miui.notification, com.novatek.novavis, com.android.inputdevices, com.miui.face, com.android.provision, com.android.localtransport, com.miui.contentcatcher, com.android.keychain, com.miui.bugreport, com.xiaomi.location.fused, com.xiaomi.digitalkey, com.qualcomm.qti.xrvd.service, com.wapi.wapicertmanage, com.miui.cit, com.miui.audiomonitor, com.miui.qr, com.miui.thirdappassistant, com.xiaomi.trustservice, com.android.location.fused, miui.systemui.plugin, com.xiaomi.mtb, com.miui.daemon, com.miui.aod, com.xiaomi.aiasst.vision, com.miui.powerkeeper, com.xiaomi.misettings, com.miui.misightservice, com.xiaomi.otrpbroker, com.android.DeviceAsWebcam, com.android.providers.settings, com.bsp.catchlog, com.qualcomm.qti.services.systemhelper, android, com.xiaomi.touchservice, com.android.systemui, com.xiaomi.mi_connect_service, com.android.server.telecom, com.miui.wmsvc, vendor.qti.qesdk.sysservice, com.miui.securitycore, com.xiaomi.mirror, com.xiaomi.devauth, com.android.settings, com.android.dynsystem, com.miui.securitycenter][com.miui.uireporter, com.xiaomi.digitalkey, com.xiaomi.devauth, com.android.server.telecom, com.xiaomi.location.fused, com.android.location.fused, com.xiaomi.trustservice, com.wapi.wapicertmanage, com.miui.audiomonitor, com.miui.notification, com.miui.face, com.android.providers.settings, com.miui.wmsvc, com.xiaomi.otrpbroker, com.miui.securitycore, com.miui.bugreport, miui.systemui.plugin, com.android.keychain, com.miui.contentcatcher, com.qualcomm.qti.xrvd.service, com.android.systemui, com.novatek.novavis, com.bsp.catchlog, vendor.qti.qesdk.sysservice, com.xiaomi.mtb, com.android.dynsystem, com.xiaomi.touchservice, com.android.settings, com.android.DeviceAsWebcam, android, com.miui.daemon, com.android.provision, com.miui.securitycenter, com.miui.thirdappassistant, com.miui.aod, com.xiaomi.mirror, com.android.localtransport, com.miui.cit, com.xiaomi.joyose, com.xiaomi.misettings, com.xiaomi.mi_connect_service, com.xiaomi.barrage, com.android.inputdevices, com.miui.misightservice, com.miui.powerkeeper, com.qualcomm.qti.services.systemhelper, com.miui.qr, com.xiaomi.aiasst.vision][com.android.permissioncontroller][com.xiaomi.xmsf][com.miui.home][com.xiaomi.market][com.xiaomi.xmsf]
+
+Proxy manager state:
+    Number of proxy connections: 0
+    Registered proxy connections:
+Accessibility Display Listener:
+    SystemUI uid: 1000
+    1 valid display: 0

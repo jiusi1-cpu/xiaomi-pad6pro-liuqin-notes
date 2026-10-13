@@ -1,0 +1,14 @@
+{
+  "PACKAGES_REDMAGIC_TABLET_3_PRO": [
+    "com.tencent.tmgp.pubgmhd:blocked"
+  ],
+  "PACKAGES_REDMAGIC_TABLET_3_PRO_DEVICE": {
+    "NAME": "REDMAGIC Tablet 3 Pro / Astra",
+    "BRAND": "nubia",
+    "MANUFACTURER": "nubia",
+    "MODEL": "NP05J",
+    "DEVICE": "PQ84P01",
+    "PRODUCT": "PQ84P01-EEA",
+    "FINGERPRINT": "nubia/PQ84P01-EEA/PQ84P01:15/AQ3A.240812.002/REDMAGICOS10.5.9_NP05J_EU:user/release-keys"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "serial": "1916b8f1",
+  "rom": "OS3.0.7.0.VMYCNXM",
+  "slot": "a",
+  "kind": "Active system partition images extracted from this tablet, verified against official full OTA manifest",
+  "partitions": {
+    "boot": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\boot.img",
+      "size": 201326592,
+      "sha256": "9dd14961ae15aa10d162711d57972c5c62e7af23f2dabc22bac57b24bc185e4b",
+      "official_hash_matches": true,
+      "source": "Original boot.img stored on tablet /sdcard/boot.img, matches official full OTA SHA256; physical boot_a was modified and separately backed up"
+    },
+    "dtbo": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\dtbo.img",
+      "size": 25165824,
+      "sha256": "21376daf2630560a1b791b639703b4c9614b19ead265a3ab2e6866858dd5e2c0",
+      "official_hash_matches": true,
+      "device": "/dev/block/by-name/dtbo_a"
+    },
+    "vendor_boot": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\vendor_boot.img",
+      "size": 100663296,
+      "sha256": "752b75972f50a71b58ea0da2f227525f4eb16982fba1ea60449c5f63a8bc1b40",
+      "official_hash_matches": true,
+      "device": "/dev/block/by-name/vendor_boot_a"
+    },
+    "vbmeta": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\vbmeta.img",
+      "size": 8192,
+      "sha256": "b3ad4462082df709be53bed487d60fb55588201d7b0e38237d6468aa71764fd7",
+      "official_hash_matches": true,
+      "device": "/dev/block/by-name/vbmeta_a"
+    },
+    "vbmeta_system": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\vbmeta_system.img",
+      "size": 4096,
+      "sha256": "9838afb948f0c48c2a5a855c655404c3c9bff4a095151430714288a50572b94f",
+      "official_hash_matches": true,
+      "device": "/dev/block/by-name/vbmeta_system_a"
+    },
+    "mi_ext": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\mi_ext.img",
+      "size": 159744,
+      "sha256": "6d447859d6655d5b0e97197b42738f97e2c004929f465d04a4a25ac61e48f39f",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/mi_ext_a"
+    },
+    "vendor_dlkm": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\vendor_dlkm.img",
+      "size": 29597696,
+      "sha256": "2a913880154e3ce9030ad165a53d31d47f35b62dd8e82c88330546a7f6073cb7",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/vendor_dlkm_a"
+    },
+    "odm": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\odm.img",
+      "size": 492642304,
+      "sha256": "5bbb7e18b11c95decd0b6e717bd77b40301524c7aea151017469ef524493e9b6",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/odm_a"
+    },
+    "system": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\system.img",
+      "size": 760172544,
+      "sha256": "c4e6254ccf80e813259383dc4181683c3a89a014d9df18cb3f7e8635173b9259",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/system_a"
+    },
+    "system_ext": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\system_ext.img",
+      "size": 799367168,
+      "sha256": "d2e70681c7764a994e46b01f94f055cde1d372b0811847810470eff0db7269bc",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/system_ext_a"
+    },
+    "vendor": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\vendor.img",
+      "size": 1401200640,
+      "sha256": "7106c52a57f2f0b60f305fe4cd69a39e96977832528d1cc45746cc90608fe90b",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/vendor_a"
+    },
+    "product": {
+      "file": "outputs\\extracted-OS3.0.7.0.VMYCNXM\\product.img",
+      "size": 4646461440,
+      "sha256": "cf1925c0784652f80b659bd3714a5da2641c1ecd18ed91142d1c89e60805fa4a",
+      "official_hash_matches": true,
+      "device": "/dev/block/mapper/product_a"
+    }
+  },
+  "complete": true
+}

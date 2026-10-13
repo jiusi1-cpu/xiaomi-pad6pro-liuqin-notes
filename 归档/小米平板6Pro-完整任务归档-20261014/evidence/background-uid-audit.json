@@ -1,0 +1,148 @@
+[
+  {
+    "package": "com.android.fileexplorer",
+    "uid": 10156,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.android.htmlviewer",
+    "uid": 10086,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.notes",
+    "uid": 10252,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.gallery",
+    "uid": 10279,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.mediaeditor",
+    "uid": 10255,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.creation",
+    "uid": 10277,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.xiaomi.gamecenter",
+    "uid": 10259,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.xiaomi.market",
+    "uid": 10160,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.weather2",
+    "uid": 10263,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.player",
+    "uid": 10251,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.video",
+    "uid": 10267,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.qiyi.video.pad",
+    "uid": 10275,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.smile.gifmaker",
+    "uid": 10264,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.ss.android.ugc.aweme",
+    "uid": 10260,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.xiaomi.shop",
+    "uid": 10257,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.xiaomi.smarthome",
+    "uid": 10270,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "cn.wps.moffice_eng",
+    "uid": 10280,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "cn.wps.moffice_eng.xiaomi.lite",
+    "uid": 10256,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.duokan.reader",
+    "uid": 10269,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.cleanmaster",
+    "uid": 10249,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.calculator",
+    "uid": 10258,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.xiaomi.scanner",
+    "uid": 10261,
+    "shared_packages": [],
+    "system_uid": false
+  },
+  {
+    "package": "com.miui.huanji",
+    "uid": 6100,
+    "shared_packages": [
+      "com.miui.backup"
+    ],
+    "system_uid": true
+  },
+  {
+    "package": "com.android.email",
+    "uid": 10248,
+    "shared_packages": [],
+    "system_uid": false
+  }
+]
